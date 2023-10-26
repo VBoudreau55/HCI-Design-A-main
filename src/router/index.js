@@ -16,11 +16,6 @@ const routes = [
         name: 'Home',
         component: () => import(/* webpackChunkName: "home" */ '@/views/Home.vue'),
       },
-      {
-        path: 'table-item/:id', // This is the table item navigation page with a dynamic route parameter
-        name: 'TableItem',
-        component: () => import(/* webpackChunkName: "table-item" */ '@/views/TableItem.vue'),
-      },
     ],
   },
 ]
