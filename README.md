@@ -1,5 +1,7 @@
 # essentials
 
+[ARCHIVED] > This repository is unmaintained. It was originally created for an academic project to explore human centered computing practices and A/B testing. It is preserved here for portfolio/historical purposes only.
+
 ## Project setup
 
 ```
